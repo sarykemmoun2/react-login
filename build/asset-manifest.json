@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/sarykemmoun2/react-loginstatic/js/main.ba60d21b.chunk.js",
+    "main.js.map": "/sarykemmoun2/react-loginstatic/js/main.ba60d21b.chunk.js.map",
+    "runtime-main.js": "/sarykemmoun2/react-loginstatic/js/runtime-main.1032432d.js",
+    "runtime-main.js.map": "/sarykemmoun2/react-loginstatic/js/runtime-main.1032432d.js.map",
+    "index.html": "/sarykemmoun2/react-loginindex.html",
+    "precache-manifest.42fb6a2f65e443b721352662fea61376.js": "/sarykemmoun2/react-loginprecache-manifest.42fb6a2f65e443b721352662fea61376.js",
+    "service-worker.js": "/sarykemmoun2/react-loginservice-worker.js",
+    "static/js/main.ba60d21b.chunk.js.LICENSE.txt": "/sarykemmoun2/react-loginstatic/js/main.ba60d21b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1032432d.js",
+    "static/js/main.ba60d21b.chunk.js"
+  ]
+}
